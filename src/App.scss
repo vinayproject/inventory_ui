@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+
+html,
+body,
+#root {
+	height: 100%;
+	font-size: 10px;
+	font-family: sans-serif;
+	// background-color: $athensGray;
+	// background-color: #e8f1f7;
+	user-select: none;
+}
+* {
+	box-sizing: border-box;
+	padding: 0;
+}

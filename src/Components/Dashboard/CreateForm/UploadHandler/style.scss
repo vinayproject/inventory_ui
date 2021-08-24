@@ -1,0 +1,11 @@
+.upload-wrapper {
+	padding: 24px;
+	background: #f0e9e9;
+	border: 1px solid #d9d9d9;
+	border-radius: 6px;
+
+	.ant-upload-picture-card-wrapper {
+		display: flex;
+		justify-content: center;
+	}
+}
